@@ -1,3 +1,3 @@
 # Python-Basics
 
-Just some scripts, i'm new to Python.
+Just some scripts, I'm new to Python.
