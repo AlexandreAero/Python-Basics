@@ -4,6 +4,6 @@
 
 ### Just some scripts, I'm new to Python.
 
-### Files hierarchy
+## Files hierarchy
 
-``
+``main.py`` is a small script to calculate geometric stuff
