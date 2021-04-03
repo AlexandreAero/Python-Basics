@@ -1,8 +1,10 @@
 # Python-Basics
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AlexandreAero/Python-Basics) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AlexandreAero/Python-Basics)
+![GitHub last commit](https://img.shields.io/github/last-commit/AlexandreAero/Python-Basics) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/python-basics)
+![Lines of code](https://img.shields.io/tokei/lines/github/alexandreaero/python-basics)
 
-### Just some scripts, I'm new to Python.
+### Using Python for mathematics
 
 ## Files hierarchy
 
