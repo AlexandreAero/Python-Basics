@@ -5,6 +5,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/alexandreaero/python-basics)
 
 ### Using Python for mathematics
+![image](https://user-images.githubusercontent.com/66020831/113889360-74dd2900-97c3-11eb-8b9f-22466c4a69df.png)
 
 ## Screenshots
 
